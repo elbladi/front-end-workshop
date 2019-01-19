@@ -1,5 +1,4 @@
 import React from 'react';
-
 import './cover.scss';
 
 import logo from './images/logo.svg';
