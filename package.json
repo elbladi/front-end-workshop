@@ -21,23 +21,23 @@
   },
   "homepage": "https://github.com/ezavile/front-end-workshop#readme",
   "devDependencies": {
-    "babel-core": "6.26.3",
-    "babel-preset-env": "1.7.0",
-    "babel-preset-react": "6.24.1",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
     "parcel-bundler": "1.10.3",
     "rimraf": "2.6.2",
-    "sass": "1.14.2"
+    "sass": "^1.14.2"
   },
   "dependencies": {
     "enzyme": "3.7.0",
     "enzyme-adapter-react-16": "1.7.0",
     "enzyme-to-json": "3.3.4",
-    "evil-icons": "1.10.1",
+    "evil-icons": "^1.10.1",
     "identity-obj-proxy": "3.0.0",
     "jest": "23.6.0",
-    "react": "16.6.3",
-    "react-dom": "16.6.3",
-    "reset-css": "4.0.1"
+    "react": "^16.7.0",
+    "react-dom": "^16.6.3",
+    "reset-css": "^4.0.1"
   },
   "jest": {
     "setupFiles": [
